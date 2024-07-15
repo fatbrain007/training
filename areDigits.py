@@ -1,3 +1,4 @@
+#6. How do you check if a string contains only digits?
 import re
 
 str1 = "6666666668888"
