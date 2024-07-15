@@ -1,3 +1,4 @@
+#2. How do you find the duplicatenumber on a given integer array?
 def findDups(nums):
     num_count = {} 
     dup_nums = []   

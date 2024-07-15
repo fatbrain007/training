@@ -1,3 +1,4 @@
+#2. How do you print duplicate characters from a string? (solution)
 def getDups(str):
     char_count = {} 
     dups =[]   
