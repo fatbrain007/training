@@ -1,3 +1,4 @@
+#3. How do you check if two strings are anagrams of each other?
 def areAnagrams(str1, str2):
     return sorted(str1) == sorted(str2)
 
