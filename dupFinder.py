@@ -1,3 +1,4 @@
+#7. How do you find duplicate characters in a given string?
 def printDups(str):
     char_count = {}    
     

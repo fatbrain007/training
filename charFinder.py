@@ -1,4 +1,4 @@
-#how do you count the occurrence of a given character in a string?
+#9. how do you count the occurrence of a given character in a string?
 def charFinder(str1, char1):
     return str1.count(char1)
 
