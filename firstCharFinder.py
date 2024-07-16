@@ -1,3 +1,4 @@
+#10. How do you print the first non-repeated character from a string?
 def first_non_repeated_char(str):
     
     char_count = {}

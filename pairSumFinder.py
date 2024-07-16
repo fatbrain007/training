@@ -1,3 +1,4 @@
+#4. How do you find all pairs of aninteger array whose sum is equal to agiven number? 
 def find_pairs(nums, target_sum):
     seen = set()
     pairs = set()

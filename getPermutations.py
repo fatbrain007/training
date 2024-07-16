@@ -1,3 +1,4 @@
+#4. How do you find all the permutations of a string?
 import itertools
 
 def getPermutations(s):
