@@ -1,3 +1,4 @@
+#6. How to remove duplicates from agiven array in Java?(solution)
 def removeDups(lists):
     return list(set(lists))
 

@@ -1,3 +1,4 @@
+#7. How do you search a target value in arotated array?
 def search_rotated_array(nums, target):
     left, right = 0, len(nums) - 1
 

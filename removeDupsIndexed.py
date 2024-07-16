@@ -1,3 +1,4 @@
+#10. How do you remove duplicates froman array in place?
 def remove_duplicates(nums):
     if not nums:
         return 0
@@ -13,7 +14,6 @@ def remove_duplicates(nums):
 
     return write_index
 
-# Example usage
 nums = [1, 2, 3, "a", 1, "b", 2, "a", 4, 5, 6, 7, 3, "c"]
 length = remove_duplicates(nums)
 print(nums[:length])
